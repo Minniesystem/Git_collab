@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void)
 {
-    greeting("Developer A,B,C !!");
-    return 0;
+printf("Hello, Git Collaboration!\n");
+return 0;
 }
  // Print a greeting message for the specified user 
 int greeting(const char *name) 
