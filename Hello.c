@@ -1,11 +1,6 @@
 #include <stdio.h>
-int main(void)
-{
-  greeting(“Developer A,B,C !!”); 
-  return 0; 
-}
-int greeting(const char *name) 
+int main(void) 
 { 
-  printf("Hello, %s!\n", name); 
+  printf("Hello, Git Collaboration!\n"); 
   return 0; 
 } 
